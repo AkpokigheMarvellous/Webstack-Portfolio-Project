@@ -1,5 +1,5 @@
 # MarvenDev Portfolio
-![MarvenDev Portfolio]https://github.com/AkpokigheMarvellous/Webstack-Portfolio-Project/blob/main/marvend/src/routes/Home.js
+![MarvenDev Portfolio]https://github.com/AkpokigheMarvellous/Webstack-Portfolio-Project/blob/main/marvend/src/assets/introbg.jpg
 
 `Personal Project` `Web Portfolio project`
 
