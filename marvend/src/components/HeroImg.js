@@ -9,7 +9,7 @@ const HeroImg = () => {
   return (
     <div className="hero">
         <div className="mask">
-            <img className="into-img" src={Introbg} alt="" />
+            <img className="into-img" src={Intg} alt="" />
         </div>  
           <div className="content">
             <p>Hi, I'M A FREELANCER.</p>
