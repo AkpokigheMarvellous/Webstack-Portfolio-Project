@@ -21,7 +21,7 @@ const Navbar = () => {
        }
     };
     
-    window.addEventListener("scroll", changeColor);
+    window.addEventListener("scroll", changeCo);
 
 
 
