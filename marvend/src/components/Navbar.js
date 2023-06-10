@@ -51,7 +51,7 @@ const Navbar = () => {
         </ul>
 
         <div className="hamburger" onClick=
-            {handleClick}>
+            {handleCli}>
             {click ? ( 
             <FaTimes size={20} style={{ color: "#fff"
             }} /> 
