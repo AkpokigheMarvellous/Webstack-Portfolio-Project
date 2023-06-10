@@ -23,7 +23,7 @@ const Footer = () => {
                 style={{color:
                 "#fff", marginRight: "2rem"}} 
                 />
-                +234 07 86559484
+                +234 708 655 9484, +234 915 123 1193
                 </h4>
             </div>
             <div className="email">
