@@ -12,7 +12,7 @@ const Navbar = () => {
     const handleClick = () => setClick(!click);
     
     
-    const [color, setlor] = useState(false);
+    const [color, setColor] = useState(false);
     const changeColor = () => {
        if (window.scrolly >= 100){
          setColor(true);
