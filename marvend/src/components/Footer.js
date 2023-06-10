@@ -13,7 +13,7 @@ const Footer = () => {
                 <FaHome size={20} style={{color:
                 "#fff", marginRight: "2rem"}} />
                 <div>
-                    <p>A2 Lake View Home</p>
+                    <p>A2 Lake ew Home</p>
                     <p>Jabi, Abuja.</p>
                 </div>
             </div>
